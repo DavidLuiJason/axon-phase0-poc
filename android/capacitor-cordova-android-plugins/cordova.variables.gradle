@@ -1,0 +1,4 @@
+// Cordova variables placeholder
+ext {
+  cdvMinSdkVersion = project.hasProperty('minSdkVersion') ? rootProject.ext.minSdkVersion : 24
+}
